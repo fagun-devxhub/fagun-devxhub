@@ -1,206 +1,243 @@
-# Mejbaur Bahar Fagun 👨‍💻
+# Mejbaur Bahar Fagun 👋
 
 <p align="center">
-  <em>Software Engineer in Test (L2) | Certified Ethical Hacker | Bug Bounty Hunter | Automation & Security Specialist</em><br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=1E90FF&center=true&vCenter=true&width=600&lines=Ensuring+software+excellence+through+automation;Securing+systems+with+ethical+hacking;Driving+innovation+in+testing+and+security" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/yourusername/banner.gif" alt="Banner GIF" width="100%" /> <!-- Replace with actual banner GIF URL for animation -->
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mejbaur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fagun115946@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="mailto:fagun018@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
+  <em>Software Engineer in Test (L2) | Certified Ethical Hacker | Bug Bounty Hunter | Automation & Security Maestro</em><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+bulletproof+software+with+automation;Hunting+bugs+like+a+pro+ethical+hacker;Innovating+QA+and+security+for+the+future" alt="Typing SVG Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fagun18&style=for-the-badge&color=blueviolet" alt="Profile Views" /> <!-- Visitor Badge for dynamic count -->
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mejbaur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fagun115946@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:fagun018@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
   <a href="https://twitter.com/fagun018"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="https://t.me/mbfagun"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://fagun.sqatesting.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://t.me/mbfagun"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://fagun.sqatesting.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/fagun18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
-## 🌟 Professional Summary
-
-Results-driven Software Engineer in Test (L2) with 4+ years of experience in manual and automation testing, API validation, performance testing, and security assurance. Skilled in building scalable automation frameworks using Playwright, Selenium, and Cypress, with CI/CD integration via GitHub Actions. Proficient in performance optimization (JMeter, K6) and application security testing (Burp Suite, OWASP ZAP, Nuclei, SQLMap). Experienced in agile environments, cross-functional collaboration, and delivering high-quality products. Recognized for reducing defect leakage by 20% and cutting regression time by 35% through strategic testing and leadership.
-
-**🧠 Specialties:**
-- Scalable test frameworks (Selenium, Playwright, Cypress)
-- Penetration testing & vulnerability scanning (Burp Suite, SQLMap, Dalfox)
-- Merging QA with security for resilient, high-performance applications
-
-**🎯 Current Focus:** AI-driven testing, offensive security automation, and bug bounty hunting.
-
----
-
-## 📅 Professional Experience
-
-- **Software Engineer in Test (L2)** @ Developer Experience Hub, Rajshahi (08/2023 – Present)  
-  Skilled in QA automation, security assurance, performance, and functional testing. Ensured reliable product delivery via test strategies and agile QA practices.
-
-- **Jr Software QA Engineer** @ Developer Experience Hub, Rajshahi (08/2022 – 08/2023)  
-  Maintained product quality through thorough testing and analysis. Collaborated with cross-functional teams to resolve issues and support launches.
-
-- **Software QA Engineer (Internship)** @ Developer Experience Hub, Rajshahi (03/2022 – 07/2022)  
-  Conducted testing to identify bugs, collaborated with developers, and created test cases.
-
-- **Software Testing** @ GAOTek Inc., NY, USA (12/2021 – 02/2022)  
-  Ensured software quality via test planning, execution, and defect management. Enhanced user experience through team collaboration.
-
-- **Software Testing (Mobile Apps and Payment Gateway Systems)** @ Orion Informatics Ltd, Dhaka (05/2021 – 07/2021)  
-  Secured and optimized mobile payment applications. Improved performance and usability with development teams.
-
----
-
-## 🎓 Education
-
-- **BSc in Computer Science and Engineering (CSE)**  
-  Bangladesh University, Bangladesh (09/2017 – 08/2021)  
-  CGPA: 3.74 / 4.00  
-  Focus: Computer Programming
-
----
-
-## 🛠️ Technical Stack
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,bash,java,c,html,css" alt="Programming Languages" />
-</p>
-
-### 🤖 Automation & Functional Testing
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,playwright,cypress,appium" alt="Automation Tools" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-FF6200?style=flat-square&logo=testng&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
-</p>
-
-### 🛡️ Security & Performance Suite
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman" alt="API Tools" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6200?style=flat-square&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-F5792A?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-E84142?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/XSStrike-3B5998?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dalfox-F477C7?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-FF6200?style=flat-square&logo=apachejmeter&logoColor=white" />
-  <img src="https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
-</p>
-
-### 🔧 DevOps, CI/CD & Management
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,githubactions,postman" alt="DevOps Tools" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTrack-000000?style=flat-square&logo=youtrack&logoColor=white" />
-</p>
-
-### 📊 Other Skills
-- Manual Testing, Test Case Design, Regression Testing
-- API Testing (Postman, Swagger), Mobile Testing
-- Agile Methodologies, Database Testing, Version Control (Git, GitHub)
-
----
-
-## 🏆 Key Achievements & Awards
-
-- 🛡️ Reported **15+ critical bugs** (XSS, SQLi, CSRF) on platforms like HackerOne and Bugcrowd.
-- 🚀 Built hybrid automation frameworks, reducing execution time by 40% and regression time by 35%.
-- 🐛 Resolved 20+ high-severity bugs (Top 5% on Bugcrowd).
-- 👨‍💻 Developed 10+ open-source tools adopted by 500+ developers.
-- 🥈 1st Runner-up in Programming Contest at CSE Family Fest 2018, Bangladesh University (01/2018).
-- 🌍 Top 1000 Rank on Try Hack Me (#990 Worldwide).
-
----
-
-## 🔐 Bug Bounty & Security Activity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenBugBounty-000000?style=for-the-badge&logo=openbugbounty&logoColor=white" />
-</p>
-
-- **HackerOne**: Exposed vulnerabilities in major fintech systems.
-- **Bugcrowd**: 80% high/critical severity reports.
-- **OpenBugBounty**: Secured 50+ websites from XSS/CSRF globally.
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fagun18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagun18&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagun18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://tryhackme.com/p/fagun18"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fagun18&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-Yes-brightgreen?style=for-the-badge&logo=hireahelper&logoColor=white" alt="Open to Opportunities" /> <!-- Hiring Appeal Badge -->
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 About Me
 
-| Project | Description | Stack | Impact | Link |
-|---------|-------------|-------|--------|------|
-| **Bugs Matrix SQA Testing Tools Hub** | All-in-one browser extension to streamline software testing workflows. | Playwright, Selenium, JavaScript | Enhanced tester productivity | [GitHub](https://github.com/fagun18/bugs-matrix) |
-| **Sharp Archive Automation** | Streamlining data processing with automation. | Selenium, Python | Reduced processing time by 50% | [GitHub](https://github.com/fagun18/sharp-archive-automation) |
-| **Website Comparison Tool** | Tool for comparing website structures and content. | JavaScript, Node.js | Improved analysis efficiency | [GitHub](https://github.com/fagun18/website-comparison-tool) |
-| **Security-Automation-Tool** | Python CLI for rapid vulnerability scans. | Python, SQLMap | 2k+ downloads, 50% faster scans | [GitHub](https://github.com/fagun18/security-automation-tool) |
-| **Test-Automation-Framework** | End-to-end testing framework. | Selenium, Playwright | 95% test coverage boost | [GitHub](https://github.com/fagun18/test-automation-framework) |
-| **Bug-Bounty-Scripts** | Scripts for reconnaissance and vuln discovery. | Bash, Dalfox | 1.5k stars, global usage | [GitHub](https://github.com/fagun18/bug-bounty-scripts) |
-| **API-Security-Tester** | Automated API vulnerability scanner. | Postman, OWASP ZAP | Detected 10+ API flaws | [GitHub](https://github.com/fagun18/api-security-tester) |
+Results-oriented Software Engineer in Test with 4+ years of hands-on experience in manual/automation testing, API validation, performance tuning, and security hardening. Expert in crafting scalable frameworks with Playwright, Selenium, Cypress, and integrating CI/CD via GitHub Actions. Proficient in JMeter/K6 for performance and Burp Suite/OWASP ZAP/Nuclei/SQLMap for security. Thrives in Agile teams, slashing defect leakage by 20% and regression time by 35% through strategic leadership and innovation.
+
+**Core Strengths:**  
+- 🛡️ Security Testing & Ethical Hacking (CEH Certified)  
+- 🤖 Automation Frameworks & CI/CD Mastery  
+- 📈 Performance Optimization & Bug Bounty Wins  
+- 👥 Team Leadership in QA Ecosystems  
+
+**Passion:** Revolutionizing software quality with AI-infused testing and offensive security tools. Let's build unbreakable apps together!
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/fagun18?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" /> <!-- Advanced Metrics Plugin for more colorful insights -->
+</p>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,java,c,html,css&theme=light" alt="Languages" />
+</p>
+
+### 🤖 Automation & Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,playwright,cypress,appium,postman&theme=light" alt="Automation Tools" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-F05032?style=for-the-badge&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+</p>
+
+### 🛡️ Security & Performance
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jmeter&theme=light" /> <!-- JMeter icon if available, else badge -->
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF9900?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-FF4500?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+</p>
+
+### 🔧 DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,githubactions&theme=light" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white" />
+</p>
+
+**Other Expertise:** Manual Testing, API (Postman/Swagger), Mobile/Appium, Regression, Database, Agile.
+
+---
+
+## 🚀 Career Timeline
+
+<details>
+<summary>Click to Expand Experience</summary>
+
+- **Software Engineer in Test (L2)** @ Developer Experience Hub, Rajshahi  
+  *Aug 2023 – Present*  
+  Led QA automation, security, performance testing; ensured high-quality deliveries via Agile strategies.
+
+- **Jr. Software QA Engineer** @ Developer Experience Hub, Rajshahi  
+  *Aug 2022 – Aug 2023*  
+  Conducted thorough testing; collaborated on issue resolution and product launches.
+
+- **Software QA Engineer (Intern)** @ Developer Experience Hub, Rajshahi  
+  *Mar 2022 – Jul 2022*  
+  Bug hunting, test case creation, developer collaboration.
+
+- **Software Tester** @ GAOTek Inc., NY, USA  
+  *Dec 2021 – Feb 2022*  
+  Test planning, defect management, user experience enhancement.
+
+- **Software Tester (Mobile & Payments)** @ Orion Informatics Ltd, Dhaka  
+  *May 2021 – Jul 2021*  
+  Secured mobile payment apps; boosted performance and usability.
+
+</details>
+
+<details>
+<summary>Click to Expand Education</summary>
+
+- **BSc in Computer Science & Engineering**  
+  Bangladesh University (2017 – 2021)  
+  CGPA: 3.74/4.00 | Focus: Computer Programming
+
+</details>
+
+---
+
+## 🏆 Achievements & Honors
+
+- 🥈 1st Runner-Up, Programming Contest @ CSE Family Fest 2018  
+- 🌐 Top 1000 on Try Hack Me (#990 Worldwide)  
+- 🛡️ 15+ Critical Bugs Reported (XSS, SQLi, CSRF) on HackerOne/Bugcrowd  
+- 🚀 Hybrid Frameworks Built: 40% Faster Execution, 35% Less Regression Time  
+- 🐛 Top 5% on Bugcrowd; 20+ High-Severity Fixes  
+- 👨‍💻 10+ Open-Source Tools (500+ Users)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fagun18&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+## 🔒 Bug Bounty Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerOne-4969ED?style=for-the-badge&logo=hackerone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bugcrowd-FF0000?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenBugBounty-00FF00?style=for-the-badge&logo=openbugbounty&logoColor=white" />
+</p>
+
+- **HackerOne:** Critical fintech vulnerabilities exposed.  
+- **Bugcrowd:** 80% high/critical reports.  
+- **OpenBugBounty:** 50+ sites secured globally.
+
+---
+
+## 📈 GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fagun18&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagun18&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagun18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Featured Projects
+
+| Project | Description | Tech Stack | Impact | Repo |
+|---------|-------------|------------|--------|------|
+| **Bugs Matrix SQA Tools Hub** | Browser extension streamlining testing workflows. | Playwright, JS | Boosted efficiency for testers | [View](https://github.com/fagun18/bugs-matrix) |
+| **Sharp Archive Automation** | Data processing automation tool. | Selenium, Python | 50% time reduction | [View](https://github.com/fagun18/sharp-archive-automation) |
+| **Website Comparison Tool** | Compares site structures/content. | JS, Node.js | Enhanced analysis speed | [View](https://github.com/fagun18/website-comparison-tool) |
+| **Security Automation Tool** | CLI for vuln scans. | Python, SQLMap | 2k+ downloads, 50% faster | [View](https://github.com/fagun18/security-automation-tool) |
+| **Test Automation Framework** | E2E testing suite. | Selenium, Playwright | 95% coverage increase | [View](https://github.com/fagun18/test-automation-framework) |
+| **Bug Bounty Scripts** | Recon & vuln tools. | Bash, Dalfox | 1.5k stars globally | [View](https://github.com/fagun18/bug-bounty-scripts) |
+| **API Security Tester** | API vuln scanner. | Postman, ZAP | 10+ flaws detected | [View](https://github.com/fagun18/api-security-tester) |
+
+<p align="center">
+  <img src="https://octodex.github.com/images/yaktocat.png" alt="Project GIF" width="200" /> <!-- Fun animated GIF -->
+</p>
 
 ---
 
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certified_Ethical_Hacker-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Selenium_Professional-43B02A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OWASP_Top_10-006699?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Playwright_Automation-45BA4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity_for_Businesses-007BFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Codeless_Test_Automation-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CEH-EC--Council-FF6F61?style=for-the-badge&logo=ethicalhacking&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium%20Pro-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-006699?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersec%20Basics-007BFF?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeless%20Automation-FFA500?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
 
-- 🛡️ Certified Ethical Hacker (CEH, EC-Council) - 2022
-- 🔍 Selenium Professional - Udemy
-- ⚙️ OWASP Top 10 - 2023
-- ⚡ Playwright Automation - 2024
-- 🔒 Cybersecurity for Businesses: The Fundamental Edition
-- 🤖 Codeless Test Automation with Selenium IDE
+- Certified Ethical Hacker (CEH)  
+- Selenium Professional  
+- OWASP Top 10  
+- Playwright Automation  
+- Cybersecurity for Businesses  
+- Codeless Test Automation with Selenium IDE  
 
 ---
 
-## 🤝 Volunteer & Leadership
+## 🤝 Community & Leadership
 
-- **Campus Ambassador, Team Matrix - Elite Hacker** (01/2022 – 02/2024)  
-  Empowered students with free educational resources, promoted collaboration, and addressed academic needs.
+- **Campus Ambassador @ Team Matrix - Elite Hacker** (2022–2024)  
+  Empowered students with free resources and fostered academic collaboration.
 
-- **Leadership Highlights:**  
-  - Led an 8-member SQA team, improving test coverage and reducing defect leakage by 20%.  
-  - Directed an Automation Testing Team, developing frameworks and CI/CD pipelines that cut regression time by 35%.
-
----
-
-## 🌐 Let's Connect
-
-- 🔗 [Portfolio (fagun.sqatesting.com)](https://fagun.sqatesting.com/)  
-- ✍️ [Medium Blog](https://medium.com/@fagun018)  
-- 📬 Email: [fagun115946@gmail.com](mailto:fagun115946@gmail.com) or [fagun018@outlook.com](mailto:fagun018@outlook.com)  
-- 🤝 Open to: Collaborations, Mentoring, Speaking Engagements, Bug Bounty Partnerships
+- **Leadership Wins:**  
+  - Led 8-member SQA team: +Test Coverage, -20% Defects.  
+  - Automation Team Lead: Framework dev, CI/CD, -35% Regression Time.
 
 ---
 
-## 🐍 Contribution Animation
+## 🔗 Connect & Collaborate
+
+- 🌐 [Portfolio](https://fagun.sqatesting.com/)  
+- ✍️ [Medium](https://medium.com/@fagun018)  
+- 📧 [fagun115946@gmail.com](mailto:fagun115946@gmail.com) | [fagun018@outlook.com](mailto:fagun018@outlook.com)  
+- Open to: Tech Talks, Mentorship, Collaborations, Job Opportunities in QA/Security!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <a href="https://buymeacoffee.com/fagun18"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support" /></a> <!-- Optional support badge -->
 </p>
 
 ---
 
-<p align="center"><em>Last updated: August 2025</em></p>
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fagun18/fagun18/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center"><em>Last Updated: August 27, 2025</em></p>
