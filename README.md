@@ -1,12 +1,12 @@
 # Mejbaur Bahar Fagun 👋
 
 <p align="center">
-  <img src="https:// Caps user-images.githubusercontent.com/ yourusername /professional-qa-banner.gif" alt="Professional QA Banner" width="100%" /> <!-- Placeholder for a modern animated banner GIF depicting software testing themes like code, bugs, security shields -->
+  <img src="https://user-images.githubusercontent.com/1/professional-qa-banner.gif" alt="Professional QA Banner" width="100%" /> <!-- Fixed placeholder; replace with a valid GIF URL like https://media.giphy.com/media/3o7TKs6b1q8hZ9Z3G0/giphy.gif for a testing-related animation if available -->
 </p>
 
 <p align="center">
   <em>Software Engineer in Test (L2) | CEH-Certified Ethical Hacker | Bug Bounty Expert | Championing Quality Assurance in the AI-Driven Era</em><br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Architecting+robust+QA+frameworks+for+flawless+software;Integrating+AI+and+security+for+next-gen+testing;Reducing+defects+and+accelerating+delivery+pipelines" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Architecting+robust+QA+frameworks+for+flawless+software;Integrating+AI+and+security+for+next-gen+testing;Reducing+defects+and+accelerating+delivery+pipelines" alt="Dynamic Typing Animation" /> <!-- Switched to demolab for better visibility -->
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## 🌟 Professional Summary
 
-Dynamic Software Engineer in Test (L2) with over 4 years of expertise in end-to-end software quality assurance, encompassing manual testing, automation frameworks, API validation, performance benchmarking, and security penetration testing. Proficient in tools like Playwright, Selenium, Cypress for automation; JMeter and K6 for performance; and Burp Suite, OWASP ZAP, Nuclei, SQLMap for security. Excel in Agile/Scrum environments, CI/CD integration with GitHub Actions, and cross-functional collaboration to deliver resilient, high-performance applications. Proven track record: Reduced defect leakage by 20% through strategic test planning and slashed regression testing time by 35% via optimized automation pipelines. Aligned with 2025 trends like AI-driven testing, Shift-Left methodologies, and QAOps for proactive quality engineering.
+Results-driven Software Engineer in Test (L2) with over 4 years of expertise in end-to-end software quality assurance, encompassing manual testing, automation frameworks, API validation, performance benchmarking, and security penetration testing. Proficient in tools like Playwright, Selenium, Cypress for automation; JMeter and K6 for performance; and Burp Suite, OWASP ZAP, Nuclei, SQLMap for security. Excel in Agile/Scrum environments, CI/CD integration with GitHub Actions, and cross-functional collaboration to deliver resilient, high-performance applications. Proven track record: Reduced defect leakage by 20% through strategic test planning and slashed regression testing time by 35% via optimized automation pipelines. Aligned with 2025 trends like AI-driven testing, Shift-Left methodologies, and QAOps for proactive quality engineering.
 
 ---
 
@@ -68,6 +68,13 @@ This forward-thinking methodology positions me to drive innovation in QA teams, 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,bash,java,c,html,css,selenium,playwright,cypress,appium,postman,jenkins,docker,git,github&theme=light" alt="Tech Icons" />
+  <!-- For tools without skillicons like JMeter, K6, Burp Suite, etc., using badges below -->
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6&logoColor=white" alt="K6" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF9900?style=flat&logo=portswigger&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-FF4500?style=flat&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Nuclei-000000?style=flat&logo=nuclei&logoColor=white" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/SQLMap-FF0000?style=flat&logo=sqlmap&logoColor=white" alt="SQLMap" />
 </p>
 
 ---
@@ -131,7 +138,7 @@ This forward-thinking methodology positions me to drive innovation in QA teams, 
 - 👨‍💻 Developed 10+ Open-Source Testing Tools, Adopted by 500+ Developers Globally  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fagun18&theme=juicyfresh&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fagun18&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> <!-- Changed theme to onedark for better visibility -->
 </p>
 
 ---
@@ -153,12 +160,12 @@ This forward-thinking methodology positions me to drive innovation in QA teams, 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fagun18&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagun18&theme=dracula&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fagun18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagun18&theme=tokyonight&hide_border=true" alt="Contribution Streak" /> <!-- Changed theme to tokyonight for consistency and visibility -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagun18&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagun18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -167,6 +174,7 @@ This forward-thinking methodology positions me to drive innovation in QA teams, 
 
 | Project Name | Description | Tech Stack | Key Impact | Repository |
 |--------------|-------------|------------|-----------|------------|
+| **Bug Matrix 🐞 – SQA Testing Tools Hub** | Fully free comprehensive browser extension for testers with tools for testing, test data generation, security payloads, OSINT, and more. One-stop solution for manual testing, automation, API, performance, security. | JavaScript, Chrome Extensions | Streamlined workflows for QA professionals; Free and open for community use. <br><img src="https://lh3.googleusercontent.com/4Bf0JniTUm9PI7oCUr4mGU_m4g8kkL36Xb-PPQHw6EK6Ez32pQaiBSYtvej5WdIox7AMtQ4To-zcJQxrvFaRRCZ7Jw=s1600-w1600-h1000" alt="Bug Matrix Image" width="200"/> | [Chrome Store](https://chromewebstore.google.com/detail/bug-matrix-%F0%9F%90%9E-%E2%80%93-sqa-testi/peelhgmemfhajlldpkamljidapnfnaob?pli=1) |
 | **Bugs Matrix SQA Testing Tools Hub** | All-in-one browser extension streamlining QA workflows with integrated testing tools. | Playwright, JavaScript, Chrome Extensions | Accelerated testing cycles for teams; Open-source contribution to QA community. | [GitHub](https://github.com/fagun18/bugs-matrix) |
 | **Sharp Archive Automation** | Automated data processing pipeline for efficient archiving. | Selenium, Python | 50% reduction in manual data handling time; Supports big data trends. | [GitHub](https://github.com/fagun18/sharp-archive-automation) |
 | **Website Comparison Tool** | Advanced tool for structural and content diff analysis. | JavaScript, Node.js | Enhanced regression testing efficiency in web apps. | [GitHub](https://github.com/fagun18/website-comparison-tool) |
@@ -194,6 +202,12 @@ Committed to mentoring aspiring testers and contributing to open-source QA proje
 
 ---
 
+## 🔑 SEO Keywords for Discoverability
+
+To optimize for searches related to software testing: software testing, QA engineer, automation testing, Selenium, Playwright, Cypress, API testing, performance testing, security testing, bug bounty, ethical hacking, CEH certified, Burp Suite, OWASP ZAP, JMeter, K6, Postman, GitHub Actions, Agile QA methodologies, test automation frameworks, bug hunting tools, penetration testing, vulnerability scanning, CI/CD integration, regression testing, manual testing, mobile testing, database testing.
+
+---
+
 ## 🌐 Connect for Opportunities
 
 - 🌐 [Personal Portfolio](https://fagun.sqatesting.com/)  
@@ -210,7 +224,7 @@ Committed to mentoring aspiring testers and contributing to open-source QA proje
 ## 🐍 Contribution Visualization
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fagun18/fagun18/output/github-contribution-grid-snake-dark.svg" alt="Animated Snake Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/fagun18/fagun18/output/github-contribution-grid-snake.svg" alt="Animated Snake Contribution Graph" /> <!-- Removed -dark to try default; ensure GitHub Action is set up in repo for generation -->
 </p>
 
 ---
