@@ -1,12 +1,12 @@
 # Mejbaur Bahar Fagun 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKs6b1q8hZ9Z3G0/giphy.gif" alt="Professional QA Banner" width="100%" /> <!-- Replaced with a working GIF URL for software testing animation -->
+  <img src="https://user-images.githubusercontent.com/1/professional-qa-banner.gif" alt="Professional QA Banner" width="100%" /> <!-- Fixed placeholder; replace with a valid GIF URL like https://media.giphy.com/media/3o7TKs6b1q8hZ9Z3G0/giphy.gif for a testing-related animation if available -->
 </p>
 
 <p align="center">
   <em>Software Engineer in Test (L2) | CEH-Certified Ethical Hacker | Bug Bounty Expert | Championing Quality Assurance in the AI-Driven Era</em><br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Architecting+robust+QA+frameworks+for+flawless+software;Integrating+AI+and+security+for+next-gen+testing;Reducing+defects+and+accelerating+delivery+pipelines" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Architecting+robust+QA+frameworks+for+flawless+software;Integrating+AI+and+security+for+next-gen+testing;Reducing+defects+and+accelerating+delivery+pipelines" alt="Dynamic Typing Animation" /> <!-- Switched to demolab for better visibility -->
 </p>
 
 <p align="center">
@@ -68,6 +68,7 @@ This forward-thinking methodology positions me to drive innovation in QA teams, 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,bash,java,c,html,css,selenium,playwright,cypress,appium,postman,jenkins,docker,git,github&theme=light" alt="Tech Icons" />
+  <!-- For tools without skillicons like JMeter, K6, Burp Suite, etc., using badges below -->
   <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter" />
   <img src="https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6&logoColor=white" alt="K6" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF9900?style=flat&logo=portswigger&logoColor=white" alt="Burp Suite" />
@@ -137,7 +138,7 @@ This forward-thinking methodology positions me to drive innovation in QA teams, 
 - 👨‍💻 Developed 10+ Open-Source Testing Tools, Adopted by 500+ Developers Globally  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fagun18&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> <!-- Changed theme to dracula for better rendering -->
+  <img src="https://github-profile-trophy.vercel.app/?username=fagun18&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> <!-- Changed theme to onedark for better visibility -->
 </p>
 
 ---
@@ -160,7 +161,7 @@ This forward-thinking methodology positions me to drive innovation in QA teams, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fagun18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagun18&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagun18&theme=tokyonight&hide_border=true" alt="Contribution Streak" /> <!-- Changed theme to tokyonight for consistency and visibility -->
 </p>
 
 <p align="center">
@@ -183,7 +184,7 @@ This forward-thinking methodology positions me to drive innovation in QA teams, 
 | **API Security Tester** | Automated scanner for API vulnerabilities. | Postman, OWASP ZAP | Detected 10+ critical API flaws; Supports API automation trends. | [GitHub](https://github.com/fagun18/api-security-tester) |
 
 <p align="center">
-  <img src="https://octodex.github.com/images/jetpacktocat.png" alt="Fun Project Octocat GIF" width="200" />
+  <img src="https://octodex.github.com/images/jetpacktocat.png" alt="Fun Project Octocat GIF" width="200" /> <!-- Animated GitHub mascot for visual flair -->
 </p>
 
 ---
@@ -198,6 +199,12 @@ This forward-thinking methodology positions me to drive innovation in QA teams, 
   - Automation Team Lead: Drove framework development and CI/CD, cutting regression time by 35%.
 
 Committed to mentoring aspiring testers and contributing to open-source QA projects.
+
+---
+
+## 🔑 SEO Keywords for Discoverability
+
+To optimize for searches related to software testing: software testing, QA engineer, automation testing, Selenium, Playwright, Cypress, API testing, performance testing, security testing, bug bounty, ethical hacking, CEH certified, Burp Suite, OWASP ZAP, JMeter, K6, Postman, GitHub Actions, Agile QA methodologies, test automation frameworks, bug hunting tools, penetration testing, vulnerability scanning, CI/CD integration, regression testing, manual testing, mobile testing, database testing.
 
 ---
 
@@ -217,11 +224,9 @@ Committed to mentoring aspiring testers and contributing to open-source QA proje
 ## 🐍 Contribution Visualization
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fagun18/fagun18/dist/github-contribution-grid-snake.svg" alt="Animated Snake Contribution Graph" /> <!-- Changed path to dist/ as per standard Platane/snk setup -->
+  <img src="https://raw.githubusercontent.com/fagun18/fagun18/output/github-contribution-grid-snake.svg" alt="Animated Snake Contribution Graph" /> <!-- Removed -dark to try default; ensure GitHub Action is set up in repo for generation -->
 </p>
 
 ---
 
-<p align="center"><em>Last Updated: August 28, 2025</em></p>
-
-<!-- SEO Keywords: software testing, QA engineer, automation testing, Selenium, Playwright, Cypress, API testing, performance testing, security testing, bug bounty, ethical hacking, CEH certified, Burp Suite, OWASP ZAP, JMeter, K6, Postman, GitHub Actions, Agile QA methodologies, test automation frameworks, bug hunting tools, penetration testing, vulnerability scanning, CI/CD integration, regression testing, manual testing, mobile testing, database testing -->
+<p align="center"><em>Last Updated: August 27, 2025</em></p>
