@@ -1,12 +1,8 @@
-# Mejbaur Bahar Fagun 👋
+# Mejbaur Bahar Fagun 👨‍💻
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1/professional-qa-banner.gif" alt="Professional QA Banner" width="100%" /> <!-- Fixed placeholder; replace with a valid GIF URL like https://media.giphy.com/media/3o7TKs6b1q8hZ9Z3G0/giphy.gif for a testing-related animation if available -->
-</p>
-
-<p align="center">
-  <em>Software Engineer in Test (L2) | CEH-Certified Ethical Hacker | Bug Bounty Expert | Championing Quality Assurance in the AI-Driven Era</em><br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=650&lines=Architecting+robust+QA+frameworks+for+flawless+software;Integrating+AI+and+security+for+next-gen+testing;Reducing+defects+and+accelerating+delivery+pipelines" alt="Dynamic Typing Animation" /> <!-- Switched to demolab for better visibility -->
+  <em>Software Engineer in Test (II) | Certified Ethical Hacker | Bug Bounty Hunter | Automation & Security Specialist</em><br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=1E90FF&center=true&vCenter=true&width=600&lines=Ensuring+software+excellence+through+automation;Securing+systems+with+ethical+hacking;Driving+innovation+in+testing+and+security" alt="Typing SVG" />
 </p>
 
 <p align="center">
