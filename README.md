@@ -217,10 +217,10 @@ To optimize for searches related to software testing: software testing, QA engin
 
 ---
 
-## 🐍 Contribution Visualization
+## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fagun18/fagun18/output/github-contribution-grid-snake.svg" alt="Animated Snake Contribution Graph" /> <!-- Removed -dark to try default; ensure GitHub Action is set up in repo for generation -->
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
